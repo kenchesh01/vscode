@@ -1,1 +1,1 @@
-heloo bengalure namaste
+ssh ubuntu@172.31.45.203 'mkdir heelo'
